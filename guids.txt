@@ -1,0 +1,5 @@
+https://www.uuidtools.com/generate/v5
+
+Namespace                                       Name                                    UUID Version 5
+6ba7b810-9dad-11d1-80b4-00c04fd430c8 (DNS)      kornetzkiit.com                         6b74f51a-11ec-5fa4-a7ff-445043208c98
+6b74f51a-11ec-5fa4-a7ff-445043208c98            Kornetzki IT Semantic Versioning        b3a61f78-e479-5c32-ae30-9c9e7b6336f0

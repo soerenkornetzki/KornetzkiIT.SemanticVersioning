@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository Meta", "Repository Meta", "{247E429A-540E-4C4C-B544-33EE166A17B8}"
+	ProjectSection(SolutionItems) = preProject
+		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
+		CONTRIBUTING.md = CONTRIBUTING.md
+		README.md = README.md
+		SECURITY.md = SECURITY.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub Meta", "GitHub Meta", "{022505F7-59D3-4B09-8F3C-1B5582DA47DC}"
+	ProjectSection(SolutionItems) = preProject
+		.github\CODEOWNERS = .github\CODEOWNERS
+		.github\pull_request_template.md = .github\pull_request_template.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{425DB5F1-67E9-4E8A-A6E4-05A2EBABFC7E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		guids.txt = guids.txt
+		Kornetzki IT Semantic Versioning.sln.licenseheader = Kornetzki IT Semantic Versioning.sln.licenseheader
+		LICENSE.txt = LICENSE.txt
+		NOTICE.txt = NOTICE.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Issue Templates", "Issue Templates", "{DB95DFB1-148D-426E-924E-067F049459D2}"
+	ProjectSection(SolutionItems) = preProject
+		.github\ISSUE_TEMPLATE\bug_report.md = .github\ISSUE_TEMPLATE\bug_report.md
+		.github\ISSUE_TEMPLATE\feature_request.md = .github\ISSUE_TEMPLATE\feature_request.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{022505F7-59D3-4B09-8F3C-1B5582DA47DC} = {247E429A-540E-4C4C-B544-33EE166A17B8}
+		{DB95DFB1-148D-426E-924E-067F049459D2} = {022505F7-59D3-4B09-8F3C-1B5582DA47DC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {b3a61f78-e479-5c32-ae30-9c9e7b6336f0}
+	EndGlobalSection
+EndGlobal
